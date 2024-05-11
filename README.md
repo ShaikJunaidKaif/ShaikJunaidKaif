@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHAIK JUNAID KAIF</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="![salaire-data-scientist](https://github.com/ShaikJunaidKaif/ShaikJunaidKaif/assets/157692918/65f89840-7690-4db5-93f0-2918e487d822)">
-
+<img align="right" alt="Coding" width="400" src="https://www.jeveuxetredatascientist.fr/wp-content/uploads/2021/04/salaire-data-scientist.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikjunaidkaif&label=Profile%20views&color=0e75b6&style=flat" alt="shaikjunaidkaif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

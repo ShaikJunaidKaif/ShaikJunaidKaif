@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHAIK JUNAID KAIF</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="![salaire-data-scientist](https://github.com/ShaikJunaidKaif/ShaikJunaidKaif/assets/157692918/65f89840-7690-4db5-93f0-2918e487d822)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikjunaidkaif&label=Profile%20views&color=0e75b6&style=flat" alt="shaikjunaidkaif" /> </p>
 
